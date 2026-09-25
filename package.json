@@ -1,0 +1,19 @@
+{
+  "name": "nuvora-x1",
+  "version": "1.0.0",
+  "description": "NUVORA X1 TOOLS - A comprehensive web tools platform",
+  "main": "NUVORA_X1_owner_api-1.html",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "nuvora",
+    "tools",
+    "web"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.14"
+  }
+}
